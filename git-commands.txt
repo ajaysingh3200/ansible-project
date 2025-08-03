@@ -13,3 +13,5 @@ git remote -v
 git push orgin master (before use this command pls set your user and password of github)
 
 Foler name is diffrent.
+
+git pull origin master
