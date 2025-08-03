@@ -12,3 +12,4 @@ git remote add origin https://github.com/ajaysingh3200/ansible-project.git
 git remote -v
 git push orgin master (before use this command pls set your user and password of github)
 
+Foler name is diffrent.
